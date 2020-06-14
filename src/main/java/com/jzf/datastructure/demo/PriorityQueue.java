@@ -1,6 +1,7 @@
 package com.jzf.datastructure.demo;
 
-import com.jzf.datastructure.Interface.Queue;
+
+import com.jzf.datastructure.demo.Interface.Queue;
 
 /**
  * 使用堆(最大堆)优先队列

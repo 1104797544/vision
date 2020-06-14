@@ -1,6 +1,7 @@
 package com.jzf.leetcode;
 
-import com.jzf.datastructure.PriorityQueue;
+
+import com.jzf.datastructure.demo.PriorityQueue;
 
 import java.util.LinkedList;
 import java.util.List;

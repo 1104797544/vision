@@ -9,7 +9,7 @@ import java.util.Stack;
  * @version 1.0 <br>
  * @taskId <br>
  * @CreateDate 2020/6/13 <br>
- * @see com.jzf.datastructure.beauty.basic <br>
+ * @see com.jzf.datastructure.beauty.myversion <br>
  * @since V9.0 <br>
  */
 public class SingleLinkedList<E> {

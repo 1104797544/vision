@@ -1,7 +1,7 @@
 package com.jzf.datastructure.demo;
 
-import com.jzf.datastructure.Interface.Map;
 
+import com.jzf.datastructure.demo.Interface.Map;
 
 public class LinkedListMap<K, V> implements Map<K, V> {
 

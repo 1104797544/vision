@@ -1,6 +1,6 @@
 package com.jzf.datastructure.demo;
 
-import com.jzf.datastructure.Interface.Set;
+import com.jzf.datastructure.demo.Interface.Set;
 
 /**
  * 二叉搜索树实现的集合

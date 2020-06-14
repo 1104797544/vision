@@ -1,6 +1,7 @@
 package com.jzf.datastructure.demo;
 
-import com.jzf.datastructure.Interface.Stack;
+
+import com.jzf.datastructure.demo.Interface.Stack;
 
 import java.util.LinkedList;
 
