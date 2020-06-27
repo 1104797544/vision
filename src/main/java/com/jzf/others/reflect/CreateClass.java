@@ -2,6 +2,10 @@ package com.jzf.others.reflect;
 
 public class CreateClass {
 
+    public static String staticField;
+
+    public String nonStaticField;
+
     private Class<?> getClass(String className) throws Exception {
         return Class.forName(className);
     }
@@ -47,6 +51,12 @@ public class CreateClass {
         SuperTestClass superTestClass = new TestClass();
         Class<TestClass> testClassClass = TestClass.class;
         TestClass testClass1 = testClassClass.cast(superTestClass);
+
+        // RTTI的形式
+        // 1.传统的类型转换
+        // 2.获取对象对应的class对象
+        // 3.使用instanceof
+        // Class.isInstance可以代替instanceof
     }
 
 }
